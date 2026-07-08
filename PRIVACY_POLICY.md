@@ -162,7 +162,7 @@ NexGen Dev Studio
 NexGen App Vault Scanner
 
 **Support Email**  
-nexgendevstudio@gmail.com
+nexgen.devstudio@gmail.com
 
 **GitHub Repository**  
 https://github.com/sakihasseb/nexgen-app-vault-scanner
