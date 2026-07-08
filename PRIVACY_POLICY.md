@@ -155,19 +155,24 @@ The latest version will always be made available with the application.
 
 ## Contact Information
 
-**Developer**  
+**Developer**
 NexGen Dev Studio
 
-**Application**  
+**Application**
 NexGen App Vault Scanner
 
-**Support Email**  
-nexgen.devstudio@gmail.com
+**Support Email**
+[nexgen.devstudio@gmail.com](mailto:nexgen.devstudio@gmail.com)
 
-**GitHub Repository**  
+**GitHub Repository**
 https://github.com/sakihasseb/nexgen-app-vault-scanner
 
-For support, bug reports, feedback, feature requests, or privacy-related questions, please contact us using the email address above.
+**Official Downloads**
+https://github.com/sakihasseb/nexgen-app-vault-scanner/releases
+
+The latest official APK releases are always available on the GitHub Releases page.
+
+For support, downloads, bug reports, feedback, feature requests, or privacy-related questions, please contact us using the email address above or visit our official GitHub Repository or Releases page.
 
 ---
 
